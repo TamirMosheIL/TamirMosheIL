@@ -1,5 +1,3 @@
-![Cando Drones](https://raw.githubusercontent.com/TamirMosheIL/yourrepo/main/cando-drones-logo.png)
-
 # Hi there, I'm Tamir Moshe! 👋
 
 I'm an **Algorithm Engineer** with a B.Sc. in **Physics** from Tel Aviv University. A genuinely curious individual who enjoys tackling challenging problems, especially mathematical ones. I have a strong passion for exploring new fields of knowledge and a proven ability to self-learn technical subjects.
