@@ -4,8 +4,12 @@ I'm an **Algorithm Engineer** with a B.Sc. in **Physics** from Tel Aviv Universi
 
 🔎 Currently seeking opportunities as an **Algorithm Engineer**.
 
-📫 **Contact me**: [tamirm94@gmail.com](mailto:tamirm94@gmail.com)
 
+## 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tamir-moshe-48082b218/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/TamirMosheIL)
+📫 **Contact me**: [tamirm94@gmail.com](mailto:tamirm94@gmail.com)
 ---
 
 ## 🛠️ Skills
@@ -64,14 +68,7 @@ Tel Aviv District, Israel | Hybrid
 
 ---
 
-## 🌐 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tamir-moshe-48082b218/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/TamirMosheIL)
-
----
 
 > *"Curiosity is the wick in the candle of learning."*
 
----
 
