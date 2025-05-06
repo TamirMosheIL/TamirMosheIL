@@ -1,6 +1,9 @@
 # Hi there, I'm Tamir Moshe! 👋
 
-I'm an **Algorithm Engineer** with a B.Sc. in **Physics** from Tel Aviv University. A genuinely curious individual who enjoys tackling challenging problems, especially mathematical ones. I have a strong passion for exploring new fields of knowledge and a proven ability to self-learn technical subjects.
+I am an Algorithm Engineer with a B.Sc. degree in Physics, driven by genuine curiosity and a passion for solving challenging problems, particularly those with a mathematical foundation.
+I enjoy exploring new fields of knowledge and have a proven ability to learn technical subjects independently.
+
+My recent work and studies have expanded into AI development, including machine learning and deep learning. I have been exploring projects focused on regression, classification, and deep learning architectures, building practical experience alongside my background in algorithm design for autonomous systems.
 
 🔎 Currently seeking opportunities as an **Algorithm Engineer**.
 
