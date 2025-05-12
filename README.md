@@ -28,17 +28,17 @@ My recent work and studies have expanded into AI development, including machine 
 Tel Aviv District, Israel | Hybrid
 
 **Summary:**
-- Worked on major R&D projects in physical simulation and autonomous drone navigation.
+- Worked on major R&D projects in autonomous drone navigation and physical simulation of idustrial drones.
 
 **Projects:**
-- **Simulation of Industrial Drone Systems:**
-  - Developed MATLAB Simulink simulations demonstrating distributed control between drone and payload.
-  - Modeled rigid body dynamics, control systems, inter-communication, and degrees of freedom switching.
-
-- **INS-Based Navigation System (GPS-Denied Environments):**
-  - Designed a GPS-free navigation system with an Extended Kalman Filter.
-  - Integrated IMU, barometer, magnetometer, and vision-based translation/rotation estimations.
-  - Implemented parallel and distributed data processing (multiprocessing, RabbitMQ) and deployed on NVIDIA Jetson.
+- **INS Based Navigation System for Drones:**
+  Developed a sensor fusion system using an Extended Kalman Filter (EKF) to estimate drone position and orientation without GPS.
+  Integrated data from IMU, magnetometer, barometer, and keypoint-based image analysis.
+  Designed a robust sensor data buffering system to handle delayed measurements and ensure real-time estimation.
+  - 
+- **Simulation of Industrial Drone Dynamics and Control Systems:**
+  Built a MATLAB Simulink simulation for an industrial drone system with distributed control between drone and payload.
+  Modeled rigid body dynamics, control systems, and real-time communication between subsystems.
 
 ---
 
