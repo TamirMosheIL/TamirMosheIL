@@ -18,9 +18,7 @@ My recent work and studies have expanded into AI development, including machine 
 ## 🛠️ Skills
 
 - **Programming Languages**: Python, MATLAB
-- **Development Skills**: Multithreaded and Distributed Systems
-- **Algorithms**: Sensor Fusion (EKF), Image Processing, Numerical Analysis
-- **Engineering Areas**: Rigid Body Dynamics, Physical Simulations, Control Systems
+- **Engineering Areas**: Machine Learning, Deep Learning, Image Processing, Physical Simulations, Sensor Fusion (EKF)
 
 ---
 
