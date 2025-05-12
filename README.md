@@ -31,14 +31,20 @@ Tel Aviv District, Israel | Hybrid
 - Worked on major R&D projects in autonomous drone navigation and physical simulation of idustrial drones.
 
 **Projects:**
-- **INS Based Navigation System for Drones:**
-  Developed a sensor fusion system using an Extended Kalman Filter (EKF) to estimate drone position and orientation without GPS.
-  Integrated data from IMU, magnetometer, barometer, and keypoint-based image analysis.
-  Designed a robust sensor data buffering system to handle delayed measurements and ensure real-time estimation.
+- **INS Based Navigation System for Drones:**  
+  Developed a sensor fusion system using an Extended Kalman Filter (EKF) to estimate drone position and orientation without GPS.  
+  Integrated data from IMU, magnetometer, barometer, and keypoint-based image analysis.  
+  Designed a robust sensor data buffering system to handle delayed measurements and ensure real-time estimation.  
   
-- **Simulation of Industrial Drone Dynamics and Control Systems:**
-  Built a MATLAB Simulink simulation for an industrial drone system with distributed control between drone and payload.
-  Modeled rigid body dynamics, control systems, and real-time communication between subsystems.
+- **Simulation of Industrial Drone Dynamics and Control Systems:**  
+  Built a MATLAB Simulink simulation for an industrial drone system with distributed control between drone and payload.  
+  Modeled rigid body dynamics, control systems, and real-time communication between subsystems.  
+
+**Technologies, Knowledge Fields and Skills:**  
+- Multi-threaded and distributed system design (Python).
+- Image processing and visual motion estimation.
+- Sensor fusion and Extended Kalman Filters (EKF).
+- Rigid body kinematics and dynamic system modeling (MATLAB Simulink).
 
 ---
 
@@ -55,7 +61,7 @@ Tel Aviv District, Israel | Hybrid
 
 ## 🎓 Certifications
 
-- **Supervised Machine Learning: Regression and Classification**  
+[Supervised Machine Learning: Regression and Classification](https://coursera.org/share/9b191b40e252572c82f9d60fc426609d)    
   *DeepLearning.AI* — Issued Apr 2025  
   Credential ID: N8DB6AEDFYS3
 
