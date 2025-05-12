@@ -32,10 +32,13 @@ Tel Aviv District, Israel | Hybrid
 
 **Projects:**
 - **INS Based Navigation System for Drones:**
+  
   Developed a sensor fusion system using an Extended Kalman Filter (EKF) to estimate drone position and orientation without GPS.
+  
   Integrated data from IMU, magnetometer, barometer, and keypoint-based image analysis.
+  
   Designed a robust sensor data buffering system to handle delayed measurements and ensure real-time estimation.
-  - 
+  
 - **Simulation of Industrial Drone Dynamics and Control Systems:**
   Built a MATLAB Simulink simulation for an industrial drone system with distributed control between drone and payload.
   Modeled rigid body dynamics, control systems, and real-time communication between subsystems.
